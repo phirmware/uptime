@@ -16,7 +16,7 @@
     "timeMonth": 220,
     "timeYear": 212,
     "dailyMinutesDown": {
-      "2022-02-02": 64,
+      "2022-02-02": 961,
       "2022-02-01": 1440,
       "2022-01-31": 1440,
       "2022-01-30": 1440,
@@ -304,9 +304,9 @@
     "url": "https://api.outlier.org/health",
     "icon": "https://dashboard.outlier.org/images/logo.png",
     "slug": "outlier-health",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -316,6 +316,7 @@
     "timeMonth": 550,
     "timeYear": 481,
     "dailyMinutesDown": {
+      "2022-02-02": 0,
       "2021-06-18": 28,
       "2021-06-04": 46
     }
